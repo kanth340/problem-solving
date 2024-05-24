@@ -9,3 +9,7 @@ https://leetcode.com/problems/3sum/
 
 Sliding window:
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+
+**Javascript Problems:**
+write a function to memoize the given function?
+write a debounce function?
